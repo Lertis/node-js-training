@@ -1,1 +1,3 @@
-console.log("First NodeJs");
+const chalk = require('chalk');
+
+console.log(chalk.blue("First NodeJs"));

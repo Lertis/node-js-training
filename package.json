@@ -4,8 +4,11 @@
 	"description": "First Node JS",
 	"main": "index.js",
 	"scripts": {
-		"test": "start"
+		"start": "node index.js"
 	},
 	"author": "Yura Husak <yura.gusak7@gmail.com> | <yura.husak@juriba.com>",
-	"license": "ISC"
+	"license": "ISC",
+	"dependencies": {
+		"chalk": "^4.0.0"
+	}
 }
