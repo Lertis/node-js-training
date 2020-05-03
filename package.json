@@ -1,0 +1,11 @@
+{
+	"name": "first",
+	"version": "1.0.0",
+	"description": "First Node JS",
+	"main": "index.js",
+	"scripts": {
+		"test": "start"
+	},
+	"author": "Yura Husak <yura.gusak7@gmail.com> | <yura.husak@juriba.com>",
+	"license": "ISC"
+}
