@@ -1,3 +1,5 @@
 const text = "Hello NodeJs!";
 
-module.exports = text;
+module.exports = {
+	helloText: text
+};
