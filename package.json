@@ -4,11 +4,14 @@
 	"description": "First Node JS",
 	"main": "index.js",
 	"scripts": {
-		"start": "node index.js"
+		"start": "nodemon index.js"
 	},
 	"author": "Yura Husak <yura.gusak7@gmail.com> | <yura.husak@juriba.com>",
 	"license": "ISC",
 	"dependencies": {
 		"chalk": "^4.0.0"
+	},
+	"devDependencies": {
+		"nodemon": "2.0.3"
 	}
 }
